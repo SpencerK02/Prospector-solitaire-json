@@ -1,246 +1,101 @@
 {
-    "multiplier": {
-        "x": 1.25,
-        "y": 1.5
-    },
-
-    "slots": [
-        {
-            "id": 0,
-            "x": 0,
-            "y": -5,
-            "faceUp": true,
-            "layer": "Row0",
-            "hiddenByString": ""
-        },
-        {
-            "id": 1,
-            "x": -1.25,
-            "y": -4,
-            "faceUp": true,
-            "layer": "Row1",
-            "hiddenByString": "2"
-        },
-        {
-            "id": 2,
-            "x": 1.25,
-            "y": -4,
-            "faceUp": true,
-            "layer": "Row1",
-            "hiddenByString": "1"
-        },
-        {
-            "id": 3,
-            "x": -2.5,
-            "y": -3,
-            "faceUp": true,
-            "layer": "Row2",
-            "hiddenByString": "4,5"
-        },
-        {
-            "id": 4,
-            "x": -0.625,
-            "y": -3,
-            "faceUp": true,
-            "layer": "Row2",
-            "hiddenByString": "3,6"
-        },
-        {
-            "id": 5,
-            "x": 1.25,
-            "y": -3,
-            "faceUp": true,
-            "layer": "Row2",
-            "hiddenByString": "4,7"
-        },
-        {
-            "id": 6,
-            "x": -3.75,
-            "y": -2,
-            "faceUp": true,
-            "layer": "Row3",
-            "hiddenByString": "8,9"
-        },
-        {
-            "id": 7,
-            "x": -2,
-            "y": -2,
-            "faceUp": true,
-            "layer": "Row3",
-            "hiddenByString": "6,10"
-        },
-        {
-            "id": 8,
-            "x": -0.5,
-            "y": -2,
-            "faceUp": true,
-            "layer": "Row3",
-            "hiddenByString": "7,11"
-        },
-        {
-            "id": 9,
-            "x": 1.25,
-            "y": -2,
-            "faceUp": true,
-            "layer": "Row3",
-            "hiddenByString": "8,12"
-        },
-        {
-            "id": 10,
-            "x": -4.5,
-            "y": -1,
-            "faceUp": true,
-            "layer": "Row4",
-            "hiddenByString": "13,14"
-        },
-        {
-            "id": 11,
-            "x": -3,
-            "y": -1,
-            "faceUp": true,
-            "layer": "Row4",
-            "hiddenByString": "9,15"
-        },
-        {
-            "id": 12,
-            "x": -1.25,
-            "y": -1,
-            "faceUp": true,
-            "layer": "Row4",
-            "hiddenByString": "10,16"
-        },
-        {
-            "id": 13,
-            "x": 0.5,
-            "y": -1,
-            "faceUp": true,
-            "layer": "Row4",
-            "hiddenByString": "11,17"
-        },
-        {
-            "id": 14,
-            "x": 2,
-            "y": -1,
-            "faceUp": true,
-            "layer": "Row4",
-            "hiddenByString": "12,18"
-        },
-        {
-            "id": 15,
-            "x": -5.25,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "19,20"
-        },
-        {
-            "id": 16,
-            "x": -3.75,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "14,21"
-        },
-        {
-            "id": 17,
-            "x": -2.25,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "15,22"
-        },
-        {
-            "id": 18,
-            "x": -0.75,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "16,23"
-        },
-        {
-            "id": 19,
-            "x": 0.75,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "17,24"
-        },
-        {
-            "id": 20,
-            "x": 2.25,
-            "y": 0,
-            "faceUp": true,
-            "layer": "Row5",
-            "hiddenByString": "18,25"
-        },
-        {
-            "id": 21,
-            "x": -6,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "26,27"
-        },
-        {
-            "id": 22,
-            "x": -4.5,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "20,28"
-        },
-        {
-            "id": 23,
-            "x": -3,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "21,29"
-        },
-        {
-            "id": 24,
-            "x": -1.5,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "22,30"
-        },
-        {
-            "id": 25,
-            "x": 0,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "23,31"
-        },
-        {
-            "id": 26,
-            "x": 1.5,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "24,32"
-        },
-        {
-            "id": 27,
-            "x": 3,
-            "y": 1,
-            "faceUp": true,
-            "layer": "Row6",
-            "hiddenByString": "25,33"
-        }
-    ],
-
-    "drawPile": {
-        "x": 6,
-        "y": 4,
-        "layer": "Draw",
-        "xStagger": 0.15
-    },
-    "discardPile": {
+    "layout": {
+      "tableau": {
+        "rows": 7,
+        "columns": 5,
+        "cards": [
+          [1, 2, 3, 4, 5],          // Row 1 (Card IDs)
+          [6, 7, 8, 9, 10],         // Row 2
+          [11, 12, 13, null, null], // Row 3 (you can have empty slots)
+          [null, null, null, null, null],  // Empty cells for remaining rows
+          [null, null, null, null, null],
+          [null, null, null, null, null],
+          [null, null, null, null, null]
+        ]
+      },
+      "deck": {
         "x": 0,
-        "y": 1,
-        "layer": "Discard",
-        "xStagger": 0
-    }
-}
+        "y": 0,
+        "visible": true
+      },
+      "wastePile": {
+        "x": 500,
+        "y": 150,
+        "visible": true
+      },
+      "scoreArea": {
+        "x": 600,
+        "y": 50,
+        "width": 100,
+        "height": 50
+      }
+    },
+    "cards": [
+      {
+        "rank": 1,
+        "face": "",
+        "pips": [
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": 0.0, "z": 0.0 },
+            "flip": false,
+            "scale": 2.0
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "face": "",
+        "pips": [
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": 1.1, "z": 0.0 },
+            "flip": false,
+            "scale": 1.0
+          },
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": -1.1, "z": 0.0 },
+            "flip": true,
+            "scale": 1.0
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "face": "",
+        "pips": [
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": 1.1, "z": 0.0 },
+            "flip": false,
+            "scale": 1.0
+          },
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": 0.0, "z": 0.0 },
+            "flip": false,
+            "scale": 1.0
+          },
+          {
+            "type": "pip",
+            "loc": { "x": 0.0, "y": -1.1, "z": 0.0 },
+            "flip": true,
+            "scale": 1.0
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "face": "",
+        "pips": [
+          {
+            "type": "pip",
+            "loc": { "x": -0.55, "y": 1.1, "z": 0.0 },
+            "flip": false,
+            "scale": 1.0
+          },
+          {
+            "type": "pip",
+            "loc": 
+  
