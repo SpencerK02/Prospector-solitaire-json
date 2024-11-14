@@ -12,7 +12,7 @@ public class JSONSlot {
     public int          id;
     public float        x;
     public float        y;
-    public bool         faceUp = false;
+    public bool         faceUp = true;
     public string       layer = "Default";
     public string       hiddenByString;
 }
