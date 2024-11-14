@@ -1,10 +1,10 @@
-{
+
   "multiplier": {
     "x": 1.25,
     "y": 1.5
   },
   "slots": [
-    // Row 0 (first row, cards will be placed directly across)
+  
     {
       "id": 0,
       "x": -6,
@@ -30,7 +30,7 @@
       "hiddenByString": "5,6"
     },
 
-    // Row 1 (second row, cards slightly staggered)
+    
     {
       "id": 3,
       "x": -7,
@@ -80,7 +80,7 @@
       "hiddenByString": "17,18"
     },
 
-    // Row 2 (third row, cards further staggered)
+    
     {
       "id": 9,
       "x": -8,
@@ -154,7 +154,7 @@
       "hiddenByString": "35,36"
     },
 
-    // Row 3 (fourth row, cards with more overlap)
+    
     {
       "id": 18,
       "x": -9,
@@ -236,7 +236,6 @@
       "hiddenByString": ""
     },
 
-    // Row 4 (fifth row)
     {
       "id": 28,
       "x": -10,
@@ -316,6 +315,6 @@
       "faceUp": false,
       "layer": "Row4",
       "hiddenByString": ""
-    },
+    }
 
-    // Row 5, Row 6, and Row 7
+    
