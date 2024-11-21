@@ -51,8 +51,8 @@ public class FloatingScore : MonoBehaviour {
         bezierPts = new List<Vector2>(ePts);
 
         if (ePts.Count == 1) {
-            transform.position = ePts[0];
-            return;
+            transform.position = new Vector2(50, Screen.height - 50);
+             return;
         }
 
         if (eTimeS == 0) {
